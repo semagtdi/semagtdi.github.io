@@ -61,7 +61,7 @@ defaults:
           width: 440
           height: 440
 
-permalink: /:year-:month-:day-:title/
+permalink: pretty
 
 jekyll-archives:
   enabled:
