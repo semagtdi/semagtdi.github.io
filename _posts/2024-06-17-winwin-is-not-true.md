@@ -10,6 +10,10 @@ large_header: true
 
 这是修改过的文章
 
+![img](../images/2024-06-17-winwin-is-not-true.assets/202406041221465923.png)
+
+minilive
+
 ![img](../assets/blogres/2024-06-17-winwin-is-not-true/Cz0Np4nWIAAN_wW.jpglarge)
 
 2016
