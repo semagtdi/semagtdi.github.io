@@ -10,33 +10,15 @@ large_header: true
 
 这是修改过的文章
 
+ces
+
+![img](../images/2024-06-17-winwin-is-not-true.assets/405x540-17186125716341.jpg)
+
+ces
+
 ![img](../images/2024-06-17-winwin-is-not-true.assets/202406041221465923.png)
 
-minilive
 
-![img](../assets/blogres/2024-06-17-winwin-is-not-true/Cz0Np4nWIAAN_wW.jpglarge)
-
-2016
-
-![img](../assets/blogres/2024-06-17-winwin-is-not-true.assets/6t7L3Dvr04tvsIsQJoQ0OeoaUMOS3s-kDjtVcQXjicHlxum-tgx0XqvShbpomHKcJAXe4qXHKCTq1xJuLtcGRu37ViQSMSN7nszYmayM4ttGeTYE4h2NL0LilIKkR1fxG2EJLUdjYE88ug.jpeg)
-
-
-
-../assets/blogres/${filename}.assets
-
-
-
-test 
-
-
-
-![img](2024-06-17-winwin-is-not-true.assets/EY6T55IWkAA7uib.jpg)
-
-![img](2024-06-17-winwin-is-not-true.assets/EY6T55IWkAA7uib.jpg)、
-
-、combined.
-
-![img](2024-06-17-winwin-is-not-true.assets/EY6T55IWkAA7uib.jpg)
 
 From a legal point of view, a merger is a legal consolidation of two entities into one entity, whereas an acquisition occurs when one entity takes ownership of another entity's stock, equity interests or assets. From a commercial and economic point of view, both types of transactions generally result in the consolidation of assets and liabilities under one entity, and the distinction between a "merger" and an "acquisition" is less clear. A transaction legally structured as a merger may have the effect of placing one party's business under the indirect ownership of the other party's shareholders, while a transaction legally structured as an acquisition may give each party's shareholders partial ownership and control of the combined enterprise. A deal may be euphemistically called a "merger of equals" if both CEOs agree that joining together is in the best interest of both of their companies, while when the deal is unfriendly (that is, when the management of the target company opposes the deal) it may be regarded as an "acquisition".
 
