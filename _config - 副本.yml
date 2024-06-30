@@ -98,6 +98,7 @@ _select_data:
     - Twitter
     - YouTube
     - RSS
+    - Weibo
 
 _comments:
   large_header: Toggles the size of the top banner.
