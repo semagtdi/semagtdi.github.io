@@ -1,5 +1,5 @@
 <p class="post-summary-details">
-	{{ include.post.date | date: '%B %d, %Y' }}
+	{{ include.post.date | date: '%Y-%m-%d' }}
 
 	{% assign categories_size = include.post.categories | size %}
 	{% if categories_size > 0 %}
