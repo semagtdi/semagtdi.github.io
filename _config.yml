@@ -99,6 +99,7 @@ _select_data:
     - YouTube
     - RSS
     - Weibo
+    - Weixin
 
 _comments:
   large_header: Toggles the size of the top banner.
