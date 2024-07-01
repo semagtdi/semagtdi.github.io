@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: Justice Template
+title: 蒋旭丰律师
 url: "https://www.jiangxufeng.com"
 baseurl:
 google_analytics_key:
@@ -23,7 +23,7 @@ social:
 # -----
 # Build
 
-timezone: Etc/UTC
+timezone: Asia/Shanghai
 
 paginate: 10
 paginate_path: "/blog/:num/"
