@@ -1,0 +1,446 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="ja">
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta name='viewport' content='width=device-width, height=device-heigh, initial-scale=1.0,  minimum-scale=1.0, maximum-scale=1.0, user-scalable=no' />
+
+<!--[if lt IE 9]>
+<script src="https://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE9.js"></script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" media="all" href="https://tsukubamirai-law.com/wordpress/wp-content/themes/tukubamirai/style.css" />
+<link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+<link rel="stylesheet" type="text/css" media="all" href="https://tsukubamirai-law.com/wordpress/wp-content/themes/tukubamirai/css/slick-theme.css" />
+<link rel="stylesheet" type="text/css" media="all" href="https://tsukubamirai-law.com/wordpress/wp-content/themes/tukubamirai/css/slick" />
+<link rel="stylesheet" type="text/css" media="all" href="https://tsukubamirai-law.com/wordpress/wp-content/themes/tukubamirai/css/responsive.css" />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script type="text/javascript" src="https://tsukubamirai-law.com/wordpress/wp-content/themes/tukubamirai/js/slick.js"></script>
+<script type="text/javascript" src="https://tsukubamirai-law.com/wordpress/wp-content/themes/tukubamirai/js/jquery.bxslider.min.js"></script>
+<link rel="pingback" href="https://tsukubamirai-law.com/wordpress/xmlrpc.php" />
+<script type="text/javascript">
+/*	$(function() {
+  $('.mypattern').slick({
+    autoplay: true,
+    autoplaySpeed: 3000,
+    speed: 800,
+    dots: true,
+    arrows: true,
+    centerMode: true,
+     });
+});*/
+	$(function(){
+	$('.slide_body').bxSlider({
+		slideWidth: 1000,
+		infiniteLoop: true,
+		auto: true,
+		minSlides: 3,
+		maxSlides: 3,
+		moveSlides: 1,
+		speed: 800,
+		slideMargin: 0,
+	});
+});
+//ハンバーガーのトグル
+$(document).ready(function() {
+  $('.menu-trigger').on('click', function() {
+    $(this).toggleClass('active');
+    return false;
+  });
+});
+$(document).ready(function() {
+  $('.menu-trigger').on('click', function() {
+    $('#spnav').toggleClass('open');
+    return false;
+  });
+});
+</script>
+
+		<!-- All in One SEO 4.6.5 - aioseo.com -->
+		<title>ページが見つかりませんでした | つくばみらい法律事務所｜弁護士・松尾索</title>
+		<meta name="robots" content="noindex" />
+		<meta name="generator" content="All in One SEO (AIOSEO) 4.6.5" />
+		<meta name="google" content="nositelinkssearchbox" />
+		<script type="application/ld+json" class="aioseo-schema">
+			{"@context":"https:\/\/schema.org","@graph":[{"@type":"BreadcrumbList","@id":"https:\/\/tsukubamirai-law.com\/wordpress\/wp-content\/themes\/tukubamirai\/css\/.\/ajax-loader.gif#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"https:\/\/tsukubamirai-law.com\/#listItem","position":1,"name":"\u5bb6","item":"https:\/\/tsukubamirai-law.com\/","nextItem":"https:\/\/tsukubamirai-law.com\/wordpress\/wp-content\/themes\/tukubamirai\/css\/.\/ajax-loader.gif#listItem"},{"@type":"ListItem","@id":"https:\/\/tsukubamirai-law.com\/wordpress\/wp-content\/themes\/tukubamirai\/css\/.\/ajax-loader.gif#listItem","position":2,"name":"\u898b\u3064\u304b\u308a\u307e\u305b\u3093","previousItem":"https:\/\/tsukubamirai-law.com\/#listItem"}]},{"@type":"Organization","@id":"https:\/\/tsukubamirai-law.com\/#organization","name":"\u3064\u304f\u3070\u307f\u3089\u3044\u6cd5\u5f8b\u4e8b\u52d9\u6240\uff5c\u5f01\u8b77\u58eb\u30fb\u677e\u5c3e\u7d22","description":"\u5f01\u8b77\u58eb\u30fb\u677e\u5c3e\u7d22\u306b\u3088\u308b\u8328\u57ce\u770c\u30fb\u3064\u304f\u3070\u307f\u3089\u3044\u5e02\u552f\u4e00\u306e\u6cd5\u5f8b\u4e8b\u52d9\u6240\u3067\u3059\u3002","url":"https:\/\/tsukubamirai-law.com\/"},{"@type":"WebPage","@id":"https:\/\/tsukubamirai-law.com\/wordpress\/wp-content\/themes\/tukubamirai\/css\/.\/ajax-loader.gif#webpage","url":"https:\/\/tsukubamirai-law.com\/wordpress\/wp-content\/themes\/tukubamirai\/css\/.\/ajax-loader.gif","inLanguage":"ja","isPartOf":{"@id":"https:\/\/tsukubamirai-law.com\/#website"},"breadcrumb":{"@id":"https:\/\/tsukubamirai-law.com\/wordpress\/wp-content\/themes\/tukubamirai\/css\/.\/ajax-loader.gif#breadcrumblist"}},{"@type":"WebSite","@id":"https:\/\/tsukubamirai-law.com\/#website","url":"https:\/\/tsukubamirai-law.com\/","name":"\u3064\u304f\u3070\u307f\u3089\u3044\u6cd5\u5f8b\u4e8b\u52d9\u6240\uff5c\u5f01\u8b77\u58eb\u30fb\u677e\u5c3e\u7d22","description":"\u5f01\u8b77\u58eb\u30fb\u677e\u5c3e\u7d22\u306b\u3088\u308b\u8328\u57ce\u770c\u30fb\u3064\u304f\u3070\u307f\u3089\u3044\u5e02\u552f\u4e00\u306e\u6cd5\u5f8b\u4e8b\u52d9\u6240\u3067\u3059\u3002","inLanguage":"ja","publisher":{"@id":"https:\/\/tsukubamirai-law.com\/#organization"}}]}
+		</script>
+		<!-- All in One SEO -->
+
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/tsukubamirai-law.com\/wordpress\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.2.6"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){p.clearRect(0,0,i.width,i.height),p.fillText(e,0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(t,0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s("\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!s("\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!s("\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!s("\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='contact-form-7-css' href='https://tsukubamirai-law.com/wordpress/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.8.7' type='text/css' media='all' />
+<script type='text/javascript' src='https://tsukubamirai-law.com/wordpress/wp-includes/js/jquery/jquery.min.js?ver=3.6.4' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://tsukubamirai-law.com/wordpress/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://tsukubamirai-law.com/wordpress/wp-content/themes/tukubamirai/modernizr.min.js?ver=6.2.6' id='modernizr-js'></script>
+
+<!-- Site Kit によって追加された Google タグ（gtag.js）スニペット -->
+
+<!-- Google アナリティクス スニペット (Site Kit が追加) -->
+<script type='text/javascript' src='https://www.googletagmanager.com/gtag/js?id=G-C668BZYC10' id='google_gtagjs-js' async></script>
+<script type='text/javascript' id='google_gtagjs-js-after'>
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag("set","linker",{"domains":["tsukubamirai-law.com"]});
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "G-C668BZYC10");
+</script>
+
+<!-- Site Kit によって追加された終了 Google タグ（gtag.js）スニペット -->
+<link rel="https://api.w.org/" href="https://tsukubamirai-law.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://tsukubamirai-law.com/wordpress/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://tsukubamirai-law.com/wordpress/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 6.2.6" />
+<meta name="generator" content="Site Kit by Google 1.129.1" /><style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+<!-- BEGIN recaptcha, injected by plugin wp-recaptcha-integration  -->
+
+<!-- END recaptcha -->
+<link rel="icon" href="https://tsukubamirai-law.com/wordpress/wp-content/uploads/2017/05/cd54492a71d131781832dca3ff5fb7e7.jpg" sizes="32x32" />
+<link rel="icon" href="https://tsukubamirai-law.com/wordpress/wp-content/uploads/2017/05/cd54492a71d131781832dca3ff5fb7e7.jpg" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://tsukubamirai-law.com/wordpress/wp-content/uploads/2017/05/cd54492a71d131781832dca3ff5fb7e7.jpg" />
+<meta name="msapplication-TileImage" content="https://tsukubamirai-law.com/wordpress/wp-content/uploads/2017/05/cd54492a71d131781832dca3ff5fb7e7.jpg" />
+<script src='https://www.google.com/recaptcha/api.js?render=6LcF3YMUAAAAAPr8NyxnTANKRmnsPUnJMswYh63F'></script>
+</head>
+
+<body data-rsssl=1 class="error404">
+<div id="page" class="hfeed">
+	<header id="header">
+		<a class="headlogo" href="https://tsukubamirai-law.com"><img src="https://tsukubamirai-law.com/wordpress/wp-content/themes/tukubamirai/images/logo01.png"></a>
+		<nav id="Gnav">
+			<ul class="wrap clearfix menu">
+				<li><a class="linkwrap" href="https://tsukubamirai-law.com/about/"></a><span class="ja mincho">事務所のご案内</span><span class="en">ABOUT US</span></li>
+				<li><a class="linkwrap" href="https://tsukubamirai-law.com/lawyer/"></a><span class-"ja mincho">弁護士のご紹介</span><span class="en">LAWYER</span></li>
+				<li class="menu__single"><a class="linkwrap" href="javascript:void(0)"></a><span class="ja mincho">取扱業務</span><span class="en">WHAT WE DO</span>
+					<ul class="menu__second-level">
+						<li><a href="https://tsukubamirai-law.com/general/">一般民事事件</a></li>
+						<li><a href="https://tsukubamirai-law.com/house/">家事事件</a></li>
+						<li><a href="https://tsukubamirai-law.com/criminal/">刑事事件</a></li>
+					</ul>
+				</li>
+				<li><a class="linkwrap" href="https://tsukubamirai-law.com/cost/"></a><span class="ja mincho">弁護士費用</span><span class="en">LEGAL FEE</span></li>
+				<li><a class="linkwrap" href="https://tsukubamirai-law.com/contact/"></a><span class="ja mincho">お問い合わせ</span><span class="en">CONTACT</span></li>
+			</ul>
+		</nav>
+		<div id="menu">
+	        <div class="menu-trigger">
+	          <span></span>
+	          <span></span>
+	          <span></span>
+	        </div>
+	    </div>
+	</header><!-- #header -->
+		<div id="spnav">
+			<div class="sppositionwrap">
+				<nav>
+					<ul>
+						<li><a href="https://tsukubamirai-law.com/about/">事務所のご案内</a></li>
+						<li><a href="https://tsukubamirai-law.com/lawyer/">弁護士のご紹介</a></li>
+						<li><a href="https://tsukubamirai-law.com/general/">【取扱業務】一般民事</a></li>
+						<li><a href="https://tsukubamirai-law.com/house/">【取扱業務】家事事件</a></li>
+						<li><a href="https://tsukubamirai-law.com/criminal/">【取扱業務】刑事事件</a></li>
+						<li><a href="https://tsukubamirai-law.com/cost/">弁護士費用</a></li>
+						<li><a href="https://tsukubamirai-law.com/contact/">お問い合わせ</a></li>
+					</ul>
+				</nav>
+			</div>
+		</div>
+	<div id="main">
+
+		<div id="container" class="clearfix">
+		
+			<div id="content" role="main">
+				<!--<section id="carousel" class="nopadding">
+					<div class="slider mypattern">
+						<div>
+							<img src="https://tsukubamirai-law.com/wordpress/wp-content/themes/tukubamirai/images/slide01.png">
+						</div>
+						<div>
+							<img src="https://tsukubamirai-law.com/wordpress/wp-content/themes/tukubamirai/images/slide02.png">
+						</div>
+						<div>
+							<img src="https://tsukubamirai-law.com/wordpress/wp-content/themes/tukubamirai/images/slide03.png">
+						</div>
+					</div>
+				</section>-->
+			<section id="carousel" class="nopadding">
+				<div class="container">
+					<div class="slide_all">
+						<div class="slide_wrap">
+							<div class="slide_body">
+								<div class="slide"><img src="https://tsukubamirai-law.com/wordpress/wp-content/themes/tukubamirai/images/slide03.png"></div>
+								<div class="slide"><img src="https://tsukubamirai-law.com/wordpress/wp-content/themes/tukubamirai/images/slide01.png"></div>
+								<div class="slide"><img src="https://tsukubamirai-law.com/wordpress/wp-content/themes/tukubamirai/images/slide02.png"></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+			<div class="tablet">
+				<div id="metaslider-id-84" style="width: 100%;" class="ml-slider-3-90-0 metaslider metaslider-flex metaslider-84 ml-slider ms-theme-default nav-hidden" role="region" aria-roledescription="Slideshow" aria-label="新規スライダー">
+    <div id="metaslider_container_84">
+        <div id="metaslider_84">
+            <ul class='slides'>
+                <li style="display: block; width: 100%;" class="slide-150 ms-image " aria-roledescription="slide" aria-label="slide-150"><img src="https://tsukubamirai-law.com/wordpress/wp-content/uploads/2017/05/slide01.png" height="400" width="860" alt="" class="slider-84 slide-150" /></li>
+                <li style="display: none; width: 100%;" class="slide-152 ms-image " aria-roledescription="slide" aria-label="slide-152"><img src="https://tsukubamirai-law.com/wordpress/wp-content/uploads/2017/05/slide02.png" height="400" width="860" alt="" class="slider-84 slide-152" /></li>
+                <li style="display: none; width: 100%;" class="slide-154 ms-image " aria-roledescription="slide" aria-label="slide-154"><img src="https://tsukubamirai-law.com/wordpress/wp-content/uploads/2017/05/slide03.png" height="400" width="860" alt="" class="slider-84 slide-154" /></li>
+            </ul>
+        </div>
+        
+    </div>
+</div>			</div>
+				<section id="we-do">
+					<div class="wrap clearfix">
+						<h2 class="JAandEN"><span class="ja">取扱業務</span><span class="en">WHAT WE DO</span></h2>
+						<dl>
+							<dt><a href="https://tsukubamirai-law.com/general/"><img src="https://tsukubamirai-law.com/wordpress/wp-content/themes/tukubamirai/images/main01.png" alt="一般民事"></a></dt>
+							<dd>労働問題、債務整理、消費者被害。日常生活の中で遭遇する個人・法人のあらゆる法律問題に対応いたします。</dd>
+						</dl>
+						<dl>
+							<dt><a href="https://tsukubamirai-law.com/house/"><img src="https://tsukubamirai-law.com/wordpress/wp-content/themes/tukubamirai/images/main02.png" alt="家事事件"></a></dt>
+							<dd>離婚、遺産相続、成年後見。なかなか人には話しづらいご家族に関する問題のご相談にも対応いたします。</dd>
+						</dl>
+						<dl>
+							<dt><a href="https://tsukubamirai-law.com/criminal/"><img src="https://tsukubamirai-law.com/wordpress/wp-content/themes/tukubamirai/images/main03.png" alt="刑事事件"></a></dt>
+							<dd>成人の事件だけでなく、少年の事件も、また犯罪被害にあった方のサポートも、迅速・丁寧に対応いたします。</dd>
+						</dl>
+					</div>
+				</section>
+				<section id="aboutpic">
+					<div class="wrap">
+						<img class="abouttxt" src="https://tsukubamirai-law.com/wordpress/wp-content/themes/tukubamirai/images/txt01.png" alt="つくばみらい法律事務所について">
+						<h2 class="tablet roundhead mincho">つくばみらい法律事務所について</h2>
+						<h2 class="mincho">すべての皆さまに、十分な法的サービスを。</h2>
+						<p>お一人おひとりのお困りごとの解決に全力を尽くし、<br/>
+						皆さまの「次への一歩」を応援します。</p>
+						<a class="btn" href="https://tsukubamirai-law.com/about/">詳しくはこちら　＞</a>
+					</div>
+				</section>
+				<section id="bannerarea">
+					<div class="wrap clearfix">
+						<dl>
+							<dt><a href="https://tsukubamirai-law.com/cost/"><img src="https://tsukubamirai-law.com/wordpress/wp-content/themes/tukubamirai/images/banner01.png"></a></dt>
+							<dd>弁護士費用の目安をご紹介します。</dd>
+						</dl>
+						<dl>
+							<dt><a href="https://tsukubamirai-law.com/contact/"><img src="https://tsukubamirai-law.com/wordpress/wp-content/themes/tukubamirai/images/banner02.png"></a></dt>
+							<dd>どんなことでも、お気軽にお問い合わせください。</dd>
+						</dl>
+					</div>
+				</section>
+				<section id="copyarea">
+					<div class="wrap">
+						<img class="layername" src="https://tsukubamirai-law.com/wordpress/wp-content/themes/tukubamirai/images/txt02.png">	
+						<p id="copy"><span class="marker mincho">困っている人の力になりたい。</span><br/>
+						<span class="marker mincho">すべての「あなた」のために。</span></p>
+						<div class="positionwrap">
+							<a class="btn2" href="https://tsukubamirai-law.com/lawyer/">詳しく見る</a>
+						</div>
+					</div> 
+				</section>
+				<section id="news">
+					<div class="wrap">
+						<h2 class="JAandEN"><span class="ja">お知らせ</span><span class="en">NEWS</span></h2>
+						<ul>
+																			<li class="information clearfix">
+								<span class="time">2023.12.28</span>
+								<span class="post-title"><a href="https://tsukubamirai-law.com/archives/215">年末年始休業のご案内</a></span>
+							</li>
+													<li class="information clearfix">
+								<span class="time">2023.08.03</span>
+								<span class="post-title"><a href="https://tsukubamirai-law.com/archives/212">夏季休業のご案内</a></span>
+							</li>
+													<li class="information clearfix">
+								<span class="time">2022.12.27</span>
+								<span class="post-title"><a href="https://tsukubamirai-law.com/archives/207">年末年始休業のご案内</a></span>
+							</li>
+													<li class="information clearfix">
+								<span class="time">2022.07.31</span>
+								<span class="post-title"><a href="https://tsukubamirai-law.com/archives/202">夏季休業のご案内</a></span>
+							</li>
+												</ul>
+						<a class="btn2" href="https://tsukubamirai-law.com/archives/category/info/">一覧へ</a>
+					</div>
+				</section>
+				
+			
+			</div><!-- #content -->
+			
+			
+		</div><!-- #container -->
+
+		<section class="contactbox">
+			<div class="wrap clearfix">
+				<div class="left">
+					<dl>
+						<dt class="mincho">お気軽にお問い合わせください。</dt>
+						<dd>
+							TEL <a href="tel:0297212025">0297-21-2025</a>　（受付時間：平日 9:00〜18:00）
+						</dd>
+　　　　　　　　　　　　　　　　　　　　　　　　　　<dd>
+							※法律相談は、可能なかぎり平日の夜、土日祝日も対応いたします。
+						</dd>
+					</dl>	
+				</div>
+				<div class="right">
+					<a class="btn" href="https://tsukubamirai-law.com/contact/">メールでのお問い合わせ　＞</a>
+				</div>
+			</div>
+		</section>
+		<section class="access clearfix">
+			<div class="halfbox">
+				<div class="halfinner">
+					<h2 class="JAandEN"><span class="ja">アクセス</span><span class="en">ACCESS</span></h2>
+					<p><span class="stronghead">つくばみらい法律事務所</span><br/>
+					〒300-2358　茨城県つくばみらい市陽光台1-12-13<br/>
+					グリーンヒルみらい201</p>
+				</div>
+			</div>
+			<div class="halfbox">
+				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3228.0154016192696!2d140.03594006526754!3d35.9954902801221!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6022756abff304a5%3A0x54908e3f48a5f7ba!2z44CSMzAwLTIzNTgg6Iyo5Z-O55yM44Gk44GP44Gw44G_44KJ44GE5biC6Zm95YWJ5Y-w77yR5LiB55uu77yR77yS4oiS77yR77yTIOOCsOODquODvOODs-ODkuODq-OBv-OCieOBhA!5e0!3m2!1sja!2sjp!4v1492243642777" width="100%" height="260px" frameborder="0" style="border:0" allowfullscreen></iframe>
+			</div>
+		</section>
+	</div><!-- #main -->
+
+</div><!-- #page -->
+<footer>
+	<div class="wrap">
+		<a class="footlogo" href="https://tsukubamirai-law.com"><img src="https://tsukubamirai-law.com/wordpress/wp-content/themes/tukubamirai/images/logo02.png"></a>
+		<nav>
+			<ul class="clearfix">
+				<li><a href="https://tsukubamirai-law.com">>TOP</a></li>
+				<li><a href="https://tsukubamirai-law.com/about/">>事務所のご案内</a></li>
+				<li><a href="#">>取扱業務</a>
+					<ul class="footnav">
+						<li><a href="https://tsukubamirai-law.com/general/">・一般民事事件</a></li>
+						<li><a href="https://tsukubamirai-law.com/house/">・家事事件</a></li>
+						<li><a href="https://tsukubamirai-law.com/criminal/">・刑事事件</a></li>
+					</ul>
+				</li>
+				<li><a href="https://tsukubamirai-law.com/archives/category/info/">>お知らせ</a></li>
+				<li><a href="https://tsukubamirai-law.com/cost/">>弁護士費用</a></li>
+				<li><a href="https://tsukubamirai-law.com/contact/">>お問い合わせ</a></li>
+				<li><a href="https://tsukubamirai-law.com/sitemap/">>サイトマップ</a></li>
+			</ul>
+		</nav>
+		<p class="copyright">Copyright © 2017 つくばみらい法律事務所. All Rights Reserved.</p>
+	</div>
+</footer>
+
+
+<!-- BEGIN recaptcha, injected by plugin wp-recaptcha-integration  -->
+<script type="text/javascript">
+		var recaptcha_widgets={};
+		function wp_recaptchaLoadCallback(){
+			try {
+				grecaptcha;
+			} catch(err){
+				return;
+			}
+			var e = document.querySelectorAll ? document.querySelectorAll('.g-recaptcha:not(.wpcf7-form-control)') : document.getElementsByClassName('g-recaptcha'),
+				form_submits;
+
+			for (var i=0;i<e.length;i++) {
+				(function(el){
+					var wid;
+					// check if captcha element is unrendered
+					if ( ! el.childNodes.length) {
+						wid = grecaptcha.render(el,{
+							'sitekey':'6LcF3YMUAAAAAPr8NyxnTANKRmnsPUnJMswYh63F',
+							'theme':el.getAttribute('data-theme') || 'light'
+						});
+						el.setAttribute('data-widget-id',wid);
+					} else {
+						wid = el.getAttribute('data-widget-id');
+						grecaptcha.reset(wid);
+					}
+				})(e[i]);
+			}
+		}
+
+		// if jquery present re-render jquery/ajax loaded captcha elements
+		if ( typeof jQuery !== 'undefined' )
+			jQuery(document).ajaxComplete( function(evt,xhr,set){
+				if( xhr.responseText && xhr.responseText.indexOf('6LcF3YMUAAAAAPr8NyxnTANKRmnsPUnJMswYh63F') !== -1)
+					wp_recaptchaLoadCallback();
+			} );
+
+		</script><script src="https://www.google.com/recaptcha/api.js?onload=wp_recaptchaLoadCallback&#038;render=explicit" async defer></script>
+<!-- END recaptcha -->
+<link rel='stylesheet' id='metaslider-flex-slider-css' href='https://tsukubamirai-law.com/wordpress/wp-content/plugins/ml-slider/assets/sliders/flexslider/flexslider.css?ver=3.90.0' type='text/css' media='all' property='stylesheet' />
+<link rel='stylesheet' id='metaslider-public-css' href='https://tsukubamirai-law.com/wordpress/wp-content/plugins/ml-slider/assets/metaslider/public.css?ver=3.90.0' type='text/css' media='all' property='stylesheet' />
+<style id='metaslider-public-inline-css' type='text/css'>
+@media only screen and (max-width: 767px) {body:after { display: none; content: "smartphone"; } .hide-arrows-smartphone .flex-direction-nav, .hide-navigation-smartphone .flex-control-paging, .hide-navigation-smartphone .flex-control-nav, .hide-navigation-smartphone .filmstrip{ display: none!important; }}@media only screen and (min-width : 768px) and (max-width: 1023px) {body:after { display: none; content: "tablet"; } .hide-arrows-tablet .flex-direction-nav, .hide-navigation-tablet .flex-control-paging, .hide-navigation-tablet .flex-control-nav, .hide-navigation-tablet .filmstrip{ display: none!important; }}@media only screen and (min-width : 1024px) and (max-width: 1439px) {body:after { display: none; content: "laptop"; } .hide-arrows-laptop .flex-direction-nav, .hide-navigation-laptop .flex-control-paging, .hide-navigation-laptop .flex-control-nav, .hide-navigation-laptop .filmstrip{ display: none!important; }}@media only screen and (min-width : 1440px) {body:after { display: none; content: "desktop"; } .hide-arrows-desktop .flex-direction-nav, .hide-navigation-desktop .flex-control-paging, .hide-navigation-desktop .flex-control-nav, .hide-navigation-desktop .filmstrip{ display: none!important; }}
+</style>
+<script type='text/javascript' src='https://tsukubamirai-law.com/wordpress/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.8.7' id='swv-js'></script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/tsukubamirai-law.com\/wp-json\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://tsukubamirai-law.com/wordpress/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.8.7' id='contact-form-7-js'></script>
+<script type='text/javascript' src='https://www.google.com/recaptcha/api.js?render=6LcF3YMUAAAAAPr8NyxnTANKRmnsPUnJMswYh63F&#038;ver=3.0' id='google-recaptcha-js'></script>
+<script type='text/javascript' src='https://tsukubamirai-law.com/wordpress/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2' id='wp-polyfill-inert-js'></script>
+<script type='text/javascript' src='https://tsukubamirai-law.com/wordpress/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.11' id='regenerator-runtime-js'></script>
+<script type='text/javascript' src='https://tsukubamirai-law.com/wordpress/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script type='text/javascript' id='wpcf7-recaptcha-js-extra'>
+/* <![CDATA[ */
+var wpcf7_recaptcha = {"sitekey":"6LcF3YMUAAAAAPr8NyxnTANKRmnsPUnJMswYh63F","actions":{"homepage":"homepage","contactform":"contactform"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://tsukubamirai-law.com/wordpress/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=5.8.7' id='wpcf7-recaptcha-js'></script>
+<script type='text/javascript' src='https://tsukubamirai-law.com/wordpress/wp-content/plugins/ml-slider/assets/sliders/flexslider/jquery.flexslider.min.js?ver=3.90.0' id='metaslider-flex-slider-js'></script>
+<script type='text/javascript' id='metaslider-flex-slider-js-after'>
+var metaslider_84 = function($) {$('#metaslider_84').addClass('flexslider');
+            $('#metaslider_84').flexslider({ 
+                slideshowSpeed:3000,
+                animation:"fade",
+                controlNav:false,
+                directionNav:true,
+                pauseOnHover:true,
+                direction:"horizontal",
+                reverse:false,
+                keyboard:1,
+                touch:1,
+                animationSpeed:600,
+                prevText:"&lt;",
+                nextText:"&gt;",
+                smoothHeight:false,
+                fadeFirstSlide:false,
+                slideshow:true,
+                pausePlay:false
+            });
+            $(document).trigger('metaslider/initialized', '#metaslider_84');
+        };
+ jQuery(document).ready(function($) {
+ $('.metaslider').attr('tabindex', '0');
+ $(document).on('keyup.slider', function(e) {
+  });
+ });
+        var timer_metaslider_84 = function() {
+            var slider = !window.jQuery ? window.setTimeout(timer_metaslider_84, 100) : !jQuery.isReady ? window.setTimeout(timer_metaslider_84, 1) : metaslider_84(window.jQuery);
+        };
+        timer_metaslider_84();
+</script>
+<script type='text/javascript' id='metaslider-script-js-extra'>
+/* <![CDATA[ */
+var wpData = {"baseUrl":"https:\/\/tsukubamirai-law.com"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://tsukubamirai-law.com/wordpress/wp-content/plugins/ml-slider/assets/metaslider/script.min.js?ver=3.90.0' id='metaslider-script-js'></script>
+</body>
+</html>

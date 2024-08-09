@@ -1,0 +1,276 @@
+@media (max-width: 768px){
+	#carousel{
+		display: none;
+	}
+	.wrap{
+		width: 100%;
+		padding: 0 20px;
+	}
+	#we-do dl{
+		padding: 0px 30px 20px;
+	}
+	.abouttxt{
+		display: none;
+	}
+	.tablet{
+		display: block;
+	}
+	#aboutpic .wrap{
+		padding: 40px 20px 40px;
+	}
+	#aboutpic h2{
+		margin-bottom: 30px;
+		font-size: 22px;
+	}
+	#aboutpic p, a.btn{
+		font-size: 14px;
+	}
+	#aboutpic p{
+		margin-bottom: 50px;
+	}
+	#bannerarea dl{
+		float: none;
+		width: auto;
+		margin-bottom: 20px;
+	}
+	#bannerarea{
+		padding: 40px 0;
+	}
+	#copyarea{
+		height: 100%;
+		background-size: contain;
+    	padding-bottom: 56%;
+    	position: relative;
+	}
+	#copyarea .wrap{
+		position: static;
+	}
+	#copyarea .layername{
+		top: 0;
+	}
+	.positionwrap{
+		bottom: 10px;
+    	right: 50px;
+	}
+	#copyarea #copy{
+		font-size: 22px;
+		bottom: 19%;
+    	right: 14%;
+	}
+	.left, .right{
+		float: none;
+		margin-left: auto;
+		margin-right: auto;
+		display: table;
+	}
+	.halfbox{
+		width: 100%;
+		float: none;
+	}
+	.halfinner{
+		width: 100%;
+		float: none;
+	}
+	.access .halfinner{
+		padding-bottom: 40px;
+	}
+	footer nav ul{
+		display: none;
+	}
+	footer{
+		padding-top: 20px;
+	}
+	.footlogo a, .footlogo img{
+		margin: 0 auto 20px;
+	}
+	.service .left{
+		margin-left: 0;
+	}
+	.service{
+		position: relative;
+	}
+	.service .right{
+		width: 70%;
+		background: rgba(255,255,255,0.6);
+		position: absolute;
+		top: 30px;
+		right: 0;
+	}
+	.overview dl{
+		margin: 0 auto 20px;
+	}
+	img.alignnone.size-full.wp-image-17{
+		display: block;
+		margin: 0 auto;
+	}
+	.halfbox table{
+		margin-left: auto;
+		margin-right: auto;
+	}
+		#Gnav{
+		display: none;
+	}
+	#menu{
+		display: block;
+		position: fixed;
+		top: 20px;
+		right: 20px;
+		z-index: 999;
+	}
+	.open{
+		opacity: 1 !important;
+		z-index: 100!important;
+	}
+	.sppositionwrap{
+		position: relative;
+	}
+	div#spnav ul {
+	    margin: 120px auto 0;
+	    display: table;
+	    text-align: center;
+	}
+	div#spnav li {
+    	font-size: 18px;
+    	margin-bottom: 20px;
+	}
+	div#spnav li a{
+		text-decoration: none;
+		color: #5B5D68;
+	}
+	div#spnav li a:hover{
+		text-decoration: underline;
+	}
+}
+
+@media (max-width: 540px){
+	#we-do dl{
+		float: none;
+		width: 100%;
+	}
+	#we-do dl img{
+		display: block;
+		margin: 0 auto;
+		width: 160px;
+	}
+	#aboutpic h2{
+		font-size: 20px;
+	}
+	#copyarea .layername{
+		width: 23%;
+	}
+	#copyarea #copy{
+		top: auto;
+		bottom: 0;
+		right: 10%;
+		font-size: 16px;
+		background: rgba(255,255,255,0.6);
+	}
+	.positionwrap {
+	    bottom: -43px;
+	    right: 20px;
+	}
+	a.btn2{
+		padding: 6px 30px 6px 10px;
+	}
+	a.btn2:after{
+		top: 10px;
+	}
+	#news{
+		padding-top: 80px;
+	}
+	#news ul li .time, .infoarchive ul li .time{
+		padding-right: 30px;
+	}
+	.service .left{
+		display: none;
+	}
+	.pagemainV img{
+		top: 60px;
+		right: 30px;
+	}
+	.service{
+		padding-bottom: 0;
+		margin-bottom: 40px;
+	}
+	.service h2{
+		font-size: 18px;
+	}
+	.service .right{
+		position: static;
+		width: 100%;
+		margin-top: 60px;
+	}
+	.halfbox table{
+		margin-left: 20px;
+		margin-top: 40px;
+	}
+	.contactbox .left dl dt{
+		font-size: 20px;
+	}
+	.roundhead, .leftborder{
+		font-size: 18px;
+	}
+	.leftborder{
+		padding: 10px 0 10px 20px;
+	}
+	.bluewrap th, .bluewrap td, .keijicost dd table th, .keijicost dd table td{
+    	display: block;
+    	padding: 10px;
+	}
+	.bluewrap tr:last-child > th{
+	    border-bottom: solid 1px #b3b3b3;
+	}
+	.keijicost dd table td, .keijicost dd table{
+		text-align: center;
+		width: 100%;
+	}
+	.keijicost dd table td .bold{
+		display: block;
+	}
+	.wpcf7 table td, .wpcf7 table th{
+		display: flex;
+		width: 100%;
+	}
+	.wpcf7 table th{
+		border-bottom: none;
+		padding: 10px;
+	}
+	.wpcf7 table td{
+		padding: 0 10px 10px;
+	}
+	.contact h2{
+		font-size: 20px;
+	}
+	.pagemainV{
+		margin-bottom: 80px !important;
+	}
+	.page-id-26 .pagemainV{
+		margin-bottom: 0 !important;
+	}
+	.telbox p .spblock{
+		display: block;
+		color: #fff;
+	}
+	.telbox p{
+		font-size: 20px;
+	}
+	.telbox p.tel:before{
+		top: 8px;
+	}
+	.singlewrap{
+		width: 100%;
+		padding: 0 20px;
+		border-bottom: none;
+	}
+	.left, .right{
+		display: block;
+	}
+}
+@media (max-width: 320px){
+	body{
+		overflow: hidden;
+	}
+	.pagemainV{
+		margin-bottom: 120px !important;
+	}
+}
