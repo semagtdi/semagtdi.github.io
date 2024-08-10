@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>image &#8211; 蒋某某律师</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Fri, 11 Jan 2013 03:15:40 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>Markup: Image Alignment</title>
+		<link>./../../../2013/01/10/markup-image-alignment/index.html</link>
+		
+		<dc:creator><![CDATA[lawyerjiang]]></dc:creator>
+		<pubDate>Fri, 11 Jan 2013 03:15:40 +0000</pubDate>
+				<category><![CDATA[Markup]]></category>
+		<category><![CDATA[alignment]]></category>
+		<category><![CDATA[captions]]></category>
+		<category><![CDATA[content]]></category>
+		<category><![CDATA[css]]></category>
+		<category><![CDATA[image]]></category>
+		<category><![CDATA[markup]]></category>
+		<guid isPermaLink="false">http://wptest.io/demo/?p=903</guid>
+
+					<description><![CDATA[Welcome to image alignment! The best way to demonstrate the ebb and flow of the various image positi&#8230;]]></description>
+										<content:encoded><![CDATA[<p>Welcome to image alignment! The best way to demonstrate the ebb and flow of the various image positioning options is to nestle them snuggly among an ocean of words. Grab a paddle and let&#8217;s get started.</p>
+<p>On the topic of alignment, it should be noted that users can choose from the options of <em>None</em>, <em>Left</em>, <em>Right, </em>and <em>Center</em>. In addition, they also get the options of <em>Thumbnail</em>, <em>Medium</em>, <em>Large</em> &amp; <em>Fullsize</em>.</p>
+<p style="text-align: center;"><img fetchpriority="high" decoding="async" class="size-full wp-image-906 aligncenter" title="Image Alignment 580x300" src="http://demo.theme4press.com/evolve/files/2013/03/image-alignment-580x300.jpg" alt="Image Alignment 580x300" width="580" height="300" /></p>
+<p>The image above happens to be <em><strong>centered</strong></em>.</p>
+<p><strong><img decoding="async" class="size-full wp-image-904 alignleft" title="Image Alignment 150x150" src="http://demo.theme4press.com/evolve/files/2013/03/image-alignment-150x150.jpg" alt="Image Alignment 150x150" width="150" height="150" /></strong>The rest of this paragraph is filler for the sake of seeing the text wrap around the 150&#215;150 image, which is <em><strong>left aligned</strong></em>.</p>
+<p>As you can see the should be some space above, below, and to the right of the image. The text should not be creeping on the image. Creeping is just not right. Images need breathing room too. Let them speak like you words. Let them do their jobs without any hassle from the text. In about one more sentence here, we&#8217;ll see that the text moves from the right of the image down below the image in seamless transition. Again, letting the do it&#8217;s thang. Mission accomplished!</p>
+<p>And now for a <em><strong>massively large image</strong></em>. It also has <em><strong>no alignment</strong></em>.</p>
+<p><img decoding="async" class="alignnone wp-image-907" title="Image Alignment 1200x400" src="http://demo.theme4press.com/evolve/files/2013/03/image-alignment-1200x4002.jpg" alt="Image Alignment 1200x400" width="1200" height="400" /></p>
+<p>The image above, though 1200px wide, should not overflow the content area. It should remain contained with no visible disruption to the flow of content.</p>
+<p><img loading="lazy" decoding="async" class="size-full wp-image-905 alignright" title="Image Alignment 300x200" src="http://demo.theme4press.com/evolve/files/2013/03/image-alignment-300x200.jpg" alt="Image Alignment 300x200" width="300" height="200" /></p>
+<p>And now we&#8217;re going to shift things to the <em><strong>right align</strong></em>. Again, there should be plenty of room above, below, and to the left of the image. Just look at him there&#8230; Hey guy! Way to rock that right side. I don&#8217;t care what the left aligned image says, you look great. Don&#8217;t let anyone else tell you differently.</p>
+<p>In just a bit here, you should see the text start to wrap below the right aligned image and settle in nicely. There should still be plenty of room and everything should be sitting pretty. Yeah&#8230; Just like that. It never felt so good to be right.</p>
+<p>And just when you thought we were done, we&#8217;re going to do them all over again with captions!</p>
+<figure id="attachment_906" aria-describedby="caption-attachment-906" style="width: 580px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" class="size-full wp-image-906 " title="Image Alignment 580x300" src="http://demo.theme4press.com/evolve/files/2013/03/image-alignment-580x300.jpg" alt="Image Alignment 580x300" width="580" height="300" /><figcaption id="caption-attachment-906" class="wp-caption-text">Look at 580&#215;300 getting some <a title="Image Settings" href="https://en.support.wordpress.com/images/image-settings/">caption</a> love.</figcaption></figure>
+<p>The image above happens to be <em><strong>centered</strong></em>. The caption also has a link in it, just to see if it does anything funky.</p>
+<figure id="attachment_904" aria-describedby="caption-attachment-904" style="width: 150px" class="wp-caption alignleft"><img loading="lazy" decoding="async" class="size-full wp-image-904 " title="Image Alignment 150x150" src="http://demo.theme4press.com/evolve/files/2013/03/image-alignment-150x150.jpg" alt="Image Alignment 150x150" width="150" height="150" /><figcaption id="caption-attachment-904" class="wp-caption-text">Itty-bitty caption.</figcaption></figure>
+<p>The rest of this paragraph is filler for the sake of seeing the text wrap around the 150&#215;150 image, which is <em><strong>left aligned</strong></em>.</p>
+<p>As you can see the should be some space above, below, and to the right of the image. The text should not be creeping on the image. Creeping is just not right. Images need breathing room too. Let them speak like you words. Let them do their jobs without any hassle from the text. In about one more sentence here, we&#8217;ll see that the text moves from the right of the image down below the image in seamless transition. Again, letting the do it&#8217;s thang. Mission accomplished!</p>
+<p>And now for a <em><strong>massively large image</strong></em>. It also has <em><strong>no alignment</strong></em>.</p>
+<figure id="attachment_907" aria-describedby="caption-attachment-907" style="width: 1200px" class="wp-caption alignnone"><img loading="lazy" decoding="async" class=" wp-image-907" title="Image Alignment 1200x400" src="http://demo.theme4press.com/evolve/files/2013/03/image-alignment-1200x4002.jpg" alt="Image Alignment 1200x400" width="1200" height="400" /><figcaption id="caption-attachment-907" class="wp-caption-text">Massive image comment for your eyeballs.</figcaption></figure>
+<p>The image above, though 1200px wide, should not overflow the content area. It should remain contained with no visible disruption to the flow of content.</p>
+<figure id="attachment_905" aria-describedby="caption-attachment-905" style="width: 300px" class="wp-caption alignright"><img loading="lazy" decoding="async" class="size-full wp-image-905 " title="Image Alignment 300x200" src="http://demo.theme4press.com/evolve/files/2013/03/image-alignment-300x200.jpg" alt="Image Alignment 300x200" width="300" height="200" /><figcaption id="caption-attachment-905" class="wp-caption-text">Feels good to be right all the time.</figcaption></figure>
+<p>And now we&#8217;re going to shift things to the <em><strong>right align</strong></em>. Again, there should be plenty of room above, below, and to the left of the image. Just look at him there&#8230; Hey guy! Way to rock that right side. I don&#8217;t care what the left aligned image says, you look great. Don&#8217;t let anyone else tell you differently.</p>
+<p>In just a bit here, you should see the text start to wrap below the right aligned image and settle in nicely. There should still be plenty of room and everything should be sitting pretty. Yeah&#8230; Just like that. It never felt so good to be right.</p>
+<p>And that&#8217;s a wrap, yo! You survived the tumultuous waters of alignment. Image alignment achievement unlocked! One last thing: The last item in this post&#8217;s content is a thumbnail floated right. Make sure any elements after the content are clearing properly.</p>
+<p><img decoding="async" class="alignright size-thumbnail wp-image-827" title="Camera" src="http://demo.theme4press.com/evolve/files/2012/07/manhattansummer.jpg?w=150" alt="" width="160" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Template: Featured Image (Vertical)</title>
+		<link>./../../../2012/03/15/template-featured-image-vertical/index.html</link>
+		
+		<dc:creator><![CDATA[lawyerjiang]]></dc:creator>
+		<pubDate>Thu, 15 Mar 2012 22:36:32 +0000</pubDate>
+				<category><![CDATA[Template]]></category>
+		<category><![CDATA[未分类]]></category>
+		<category><![CDATA[Codex]]></category>
+		<category><![CDATA[edge case]]></category>
+		<category><![CDATA[featured image]]></category>
+		<category><![CDATA[image]]></category>
+		<category><![CDATA[template]]></category>
+		<guid isPermaLink="false">http://wptest.io/demo/?p=1016</guid>
+
+					<description><![CDATA[This post should display a featured image, if the theme supports it. Non-square images can provide s&#8230;]]></description>
+										<content:encoded><![CDATA[<p>This post should display a <a title="Featured Images" href="https://en.support.wordpress.com/featured-images/#setting-a-featured-image" target="_blank" rel="noopener">featured image</a>, if the theme <a title="Post Thumbnails" href="https://codex.wordpress.org/Post_Thumbnails" target="_blank" rel="noopener">supports it</a>.</p>
+<p>Non-square images can provide some unique styling issues.</p>
+<p>This post tests a vertical featured image.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Template: Featured Image (Horizontal)</title>
+		<link>./../../../2012/03/15/template-featured-image-horizontal/index.html</link>
+		
+		<dc:creator><![CDATA[lawyerjiang]]></dc:creator>
+		<pubDate>Thu, 15 Mar 2012 22:15:12 +0000</pubDate>
+				<category><![CDATA[Template]]></category>
+		<category><![CDATA[未分类]]></category>
+		<category><![CDATA[Codex]]></category>
+		<category><![CDATA[edge case]]></category>
+		<category><![CDATA[featured image]]></category>
+		<category><![CDATA[image]]></category>
+		<category><![CDATA[template]]></category>
+		<guid isPermaLink="false">http://wptest.io/demo/?p=1011</guid>
+
+					<description><![CDATA[This post should display a featured image, if the theme supports it. Non-square images can provide s&#8230;]]></description>
+										<content:encoded><![CDATA[<p>This post should display a <a title="Featured Images" href="https://en.support.wordpress.com/featured-images/#setting-a-featured-image" target="_blank" rel="noopener">featured image</a>, if the theme <a title="Post Thumbnails" href="https://codex.wordpress.org/Post_Thumbnails" target="_blank" rel="noopener">supports it</a>.</p>
+<p>Non-square images can provide some unique styling issues.</p>
+<p>This post tests a horizontal featured image.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

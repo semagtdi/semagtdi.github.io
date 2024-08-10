@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>pingbacks &#8211; 蒋某某律师</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Sun, 01 Jan 2012 17:17:18 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>Template: Pingbacks And Trackbacks</title>
+		<link>./../../../2012/01/01/template-pingbacks-an-trackbacks/index.html</link>
+		
+		<dc:creator><![CDATA[lawyerjiang]]></dc:creator>
+		<pubDate>Sun, 01 Jan 2012 17:17:18 +0000</pubDate>
+				<category><![CDATA[Template]]></category>
+		<category><![CDATA[未分类]]></category>
+		<category><![CDATA[comments]]></category>
+		<category><![CDATA[pingbacks]]></category>
+		<category><![CDATA[template]]></category>
+		<category><![CDATA[trackbacks]]></category>
+		<guid isPermaLink="false">https://wpthemetestdata.wordpress.com/2007/09/04/many-trackbacks/</guid>
+
+					<description><![CDATA[This post has many pingpacks and trackbacks. There are a few ways to list them. Above the comments B&#8230;]]></description>
+										<content:encoded><![CDATA[<p>This post has many pingpacks and trackbacks.</p>
+<p>There are a few ways to list them.</p>
+<ol>
+<li>Above the comments</li>
+<li>Below the comments</li>
+<li>Included within the normal flow of comments</li>
+</ol>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
